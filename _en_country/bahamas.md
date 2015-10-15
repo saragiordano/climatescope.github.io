@@ -1,12 +1,12 @@
 ---
 layout: country
-
 id: bs
 title: Bahamas
-
 region: lac
-grid: on
+grid: "on"
+published: true
 ---
+
 The Bahamas scored 0.53 to rank 52nd out of the 55 Climatescope 2014 nations, above only Suriname, Haiti and Tajikistan.
 
 Among the 26 Latin American and the Caribbean countries, it finished 24th.
